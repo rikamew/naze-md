@@ -97,4 +97,9 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
-* [`Saweria`](https://saweria.co/naze)
+* [`Saweria`](https://saweria.co/naze
+* [`heroku`]
+Node.js 
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/mcollina/heroku-buildpack-imagemagick
+
